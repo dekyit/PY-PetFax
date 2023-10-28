@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+
+.pet-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1em 0;
+}
+.pet-container img {
+    width: 40%;
+    border-radius: 1em;
+    display: block;
+    margin-bottom: 0.5em;
+}
+.pet {
+    width: 46%;
+    margin: 0 0.5em;
+}
+
+.container {
+    width: 50%;
+    margin: 2em auto;
+    padding: 1em 3em 3em 3em;
+    border-radius: 1em;
+    font-family: 'Agbalumo', sans-serif  ;
+    color: rgb(118, 118, 210);
+    background-color: rgb(255, 196, 156);
+}
+
+
